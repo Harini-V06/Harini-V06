@@ -4,7 +4,7 @@ Second-year Computer Science undergraduate at BITS Pilani, Dubai Campus, with a 
 
 ### 🚀 Currently Working On
 - Data Structures & Algorithms using Java  
-- Solving intermediate-level DSA problems
+- Solving DSA problems
 -  Backend-oriented Java projects
 -  Developing portfolio projects with APIs, databases, and deployment
 
