@@ -1,16 +1,25 @@
-## Hi, I’m Harini Viduri 👋
-
-Second-year Computer Science undergraduate at BITS Pilani, Dubai Campus, with a strong focus on Java-based backend development. Experienced in building structured console applications using Java and MySQL with JDBC, and proficient in Object-Oriented Programming, SQL (CRUD), and fundamental data structures. Actively improving problem-solving and clean coding skills through hands-on GitHub projects.
+## Hi, I'm Harini Viduri 👋
+Second-year Computer Science undergraduate at BITS Pilani, Dubai Campus.
+Started with Java backend development and now actively building in the
+AI/ML space — currently on a structured Agentic AI curriculum covering
+LLMs, RAG pipelines, embeddings, and vector databases.
 
 ### 🚀 Currently Working On
-- Data Structures & Algorithms using Java  
-- Solving DSA problems
--  Backend-oriented Java projects
--  Developing portfolio projects with APIs, databases, and deployment
+- Agentic AI curriculum — LLMs, embeddings, RAG, vector databases
+- Building AI-powered apps with LangChain, FAISS, Groq, and Streamlit
+- Data Structures & Algorithms in Java
+- Portfolio projects with APIs, databases, and deployment
+
+### 🛠️ Tech I Work With
+- **AI/ML:** Python, LangChain, FAISS, HuggingFace, Groq, Streamlit
+- **Backend:** Java, MySQL, JDBC, REST APIs
+- **Concepts:** RAG pipelines, vector embeddings, prompt engineering,
+  OOP, SQL (CRUD)
 
 ### 🤝 Looking to Collaborate On
-- Beginner-friendly Java backend projects  
-- Database-driven applications  
+- AI-powered tools and RAG applications
+- Beginner-friendly Java backend projects
+- Database-driven applications
 
 ### ⚡ Fun Fact
 Honestly? Facts. Pinterest + Spotify is an unmatched combo 😌
