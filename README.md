@@ -6,10 +6,10 @@ LLMs, RAG pipelines, embeddings, and vector databases.
 
 ### 🚀 Currently Working On
 
-- Agentic AI systems - DOE architecture, tool-calling agents, LLMs, RAG pipelines
-- Building AI-powered automation workflows with Grok, Gmail, and Python
+- Agentic AI systems — DOE architecture, tool-calling agents, LLMs, RAG pipelines
+- Building AI-powered automation workflows with Grok, Gmail, and Python  
 - Data Structures & Algorithms in Java
-- Expanding askmydoc with conversation memory and multi-doc support
+- **[askmydoc](https://askmydoc6767.streamlit.app/) — live RAG PDF chatbot**
 
 ### 🛠️ Tech I Work With
 
