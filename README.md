@@ -1,7 +1,7 @@
 ## Hi, I'm Harini Viduri 👋
 Second-year Computer Science undergraduate at BITS Pilani, Dubai Campus.
 Started with Java backend development and now actively building in the
-AI/ML space — currently on a structured Agentic AI curriculum covering
+AI/ML space - currently on a structured Agentic AI curriculum covering
 LLMs, RAG pipelines, embeddings, and vector databases.
 
 ### 🚀 Currently Working On
