@@ -5,16 +5,19 @@ AI/ML space — currently on a structured Agentic AI curriculum covering
 LLMs, RAG pipelines, embeddings, and vector databases.
 
 ### 🚀 Currently Working On
-- Agentic AI curriculum — LLMs, embeddings, RAG, vector databases
-- Building AI-powered apps with LangChain, FAISS, Groq, and Streamlit
+
+- Agentic AI systems - DOE architecture, tool-calling agents, LLMs, RAG pipelines
+- Building AI-powered automation workflows with Grok, Gmail, and Python
 - Data Structures & Algorithms in Java
-- Portfolio projects with APIs, databases, and deployment
+- Expanding askmydoc with conversation memory and multi-doc support
 
 ### 🛠️ Tech I Work With
-- **AI/ML:** Python, LangChain, FAISS, HuggingFace, Groq, Streamlit
-- **Backend:** Java, MySQL, JDBC, REST APIs
-- **Concepts:** RAG pipelines, vector embeddings, prompt engineering,
-  OOP, SQL (CRUD)
+
+- **AI/ML:** Python · LangChain · FAISS · HuggingFace · Groq · Streamlit · Grok API
+- **Backend:** Java · MySQL · JDBC · REST APIs · PostgreSQL
+- **Frontend:** TypeScript · React · Tailwind CSS
+- **Tools:** Git · Railway · Vercel · VS Code
+- **Concepts:** RAG pipelines · Agentic workflows · Vector embeddings · OOP · SQL
 
 ### 🤝 Looking to Collaborate On
 - AI-powered tools and RAG applications
